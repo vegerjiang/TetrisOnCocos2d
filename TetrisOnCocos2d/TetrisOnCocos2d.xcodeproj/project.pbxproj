@@ -212,6 +212,7 @@
 		22B14E1519358409003AE7B6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 22B14E1419358409003AE7B6 /* AppDelegate.m */; };
 		22B14E1819358409003AE7B6 /* HelloWorldScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 22B14E1719358409003AE7B6 /* HelloWorldScene.m */; };
 		22B14E1B19358409003AE7B6 /* IntroScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 22B14E1A19358409003AE7B6 /* IntroScene.m */; };
+		22B14E2C19358979003AE7B6 /* GamePlayScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 22B14E2B19358979003AE7B6 /* GamePlayScene.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -653,6 +654,8 @@
 		22B14E1719358409003AE7B6 /* HelloWorldScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = HelloWorldScene.m; path = Classes/HelloWorldScene.m; sourceTree = "<group>"; };
 		22B14E1919358409003AE7B6 /* IntroScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = IntroScene.h; path = Classes/IntroScene.h; sourceTree = "<group>"; };
 		22B14E1A19358409003AE7B6 /* IntroScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = IntroScene.m; path = Classes/IntroScene.m; sourceTree = "<group>"; };
+		22B14E2A19358979003AE7B6 /* GamePlayScene.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GamePlayScene.h; sourceTree = "<group>"; };
+		22B14E2B19358979003AE7B6 /* GamePlayScene.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GamePlayScene.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -1546,6 +1549,8 @@
 				22B14E1719358409003AE7B6 /* HelloWorldScene.m */,
 				22B14E1919358409003AE7B6 /* IntroScene.h */,
 				22B14E1A19358409003AE7B6 /* IntroScene.m */,
+				22B14E2A19358979003AE7B6 /* GamePlayScene.h */,
+				22B14E2B19358979003AE7B6 /* GamePlayScene.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -1654,6 +1659,7 @@
 			files = (
 				22B14C1A19358407003AE7B6 /* CCParticleBatchNode.m in Sources */,
 				22B14D9219358409003AE7B6 /* CCBReader.m in Sources */,
+				22B14E2C19358979003AE7B6 /* GamePlayScene.m in Sources */,
 				22B14D4219358408003AE7B6 /* CCButton.m in Sources */,
 				22B14CED19358408003AE7B6 /* OALAudioActions.m in Sources */,
 				22B14D3219358408003AE7B6 /* NSMutableArray+WeakReferences.m in Sources */,

@@ -8,9 +8,9 @@
 // -----------------------------------------------------------------------
 
 #import "AppDelegate.h"
-#import "IntroScene.h"
-#import "HelloWorldScene.h"
-
+//#import "IntroScene.h"
+//#import "HelloWorldScene.h"
+#import "GamePlayScene.h"
 @implementation AppDelegate
 
 // 
@@ -25,6 +25,7 @@
 	[self setupCocos2dWithOptions:@{
 		// Show the FPS and draw call label.
 		CCSetupShowDebugStats: @(YES),
+        CCSetupScreenOrientation: CCScreenOrientationPortrait,
 		
 		// More examples of options you might want to fiddle with:
 		// (See CCAppDelegate.h for more information)
@@ -49,7 +50,6 @@
 -(CCScene *)startScene
 {
 	// This method should return the very first scene to be run when your app starts.
-	return [IntroScene scene];
+	return [GamePlayScene scene];
 }
-
 @end
