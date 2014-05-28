@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B043CB2B-088D-460B-AAA9-3009BA4BA6D6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TetrisOnCocos2d</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E774E43C-DD67-4DF2-8338-DAAAA081C595</key>
+		<string>https://github.com/vegerjiang/TetrisOnCocos2d.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TetrisOnCocos2d/TetrisOnCocos2d.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E774E43C-DD67-4DF2-8338-DAAAA081C595</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vegerjiang/TetrisOnCocos2d.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E774E43C-DD67-4DF2-8338-DAAAA081C595</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E774E43C-DD67-4DF2-8338-DAAAA081C595</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TetrisOnCocos2d</string>
+		</dict>
+	</array>
+</dict>
+</plist>
